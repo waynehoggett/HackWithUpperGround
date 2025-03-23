@@ -2,6 +2,8 @@
 
 An open source version of [Hack with Upperground](https://www.eventbrite.com.au/e/hack-with-upperground-bicep-tickets-1252403756349), so you can try out the challenges in your own subscription.
 
+ ❗ Code is provided as-is, and is not designed to be run in a production environment. ❗
+
 ## Table of Contents
 
 - [Challenge 1 - Set-up Your Environment](#challenge-1---set-up-your-environment)
